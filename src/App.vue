@@ -7,6 +7,7 @@ import SimpleButton from "./components/SimpleButton.vue";
 </script>
 
 <template>
+<<<<<<< HEAD
   <div>
     <a href="https://vitejs.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite logo" />
@@ -16,6 +17,8 @@ import SimpleButton from "./components/SimpleButton.vue";
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
+=======
+>>>>>>> 849b196 (simple button implemented)
   <SimpleButton></SimpleButton>
 </template>
 
